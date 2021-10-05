@@ -1,2 +1,2 @@
-# A-star-
-A star Solution in python to reach goal from Romania to Bucahrest
+# A-star Algorithn
+A star Solution in python using Jupyter NoteBook to reach goal from Romania to Bucahrest
